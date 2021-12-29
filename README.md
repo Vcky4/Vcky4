@@ -13,7 +13,9 @@
  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
 
 
+### 📉 Git Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vcky4&count_private=true&hide=stars&show_icons=true&theme=radical)
 
 
 <!--
