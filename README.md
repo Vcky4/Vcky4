@@ -15,8 +15,9 @@
 
 ### 📉 Git Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vcky4&count_private=true&hide=stars&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vcky4&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&theme=tokyonight" />
 
 <!--
 **Vcky4/Vcky4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
