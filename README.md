@@ -10,9 +10,11 @@
 
 ### 🔧 Technologies and Tools
 
-<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
 
--->
+
+
+
 
 <!--
 **Vcky4/Vcky4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
