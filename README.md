@@ -20,6 +20,10 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&theme=tokyonight" />
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&layout=compact&theme=tokyonight)](https://github.com/Vcky4)
+
+### 📌 Pinned Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vcky4&repo=maipady&theme=tokyonight)](https:www.github.com/Vcky4/maipady)
 <!--
 **Vcky4/Vcky4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
