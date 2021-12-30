@@ -11,6 +11,14 @@
 ### 🔧 Technologies and Tools
 
  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/FrameWork-Flutter-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
 
 
 ### 📉 Git Stats
