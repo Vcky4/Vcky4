@@ -29,6 +29,10 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&layout=compact&theme=tokyonight)](https://github.com/Vcky4)
 
+### 🏆 Awards
+
+![Awards](https://github-profile-trophy.vercel.app/?username=Vcky4&no-bg=true)
+
 ### 📌 Pinned Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vcky4&repo=maipady&theme=tokyonight)](https:www.github.com/Vcky4/maipady)
