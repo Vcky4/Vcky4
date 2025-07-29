@@ -1,52 +1,55 @@
+[![Header](https://github.com/user-attachments/assets/3fcadcc6-dacf-4bb8-8819-0e3b1c057ef2)](https://www.linkedin.com/in/vicksoson)
 
-[![Header](https://user-images.githubusercontent.com/69816875/147891972-5fc5b29d-2235-448f-b833-d345220e8f24.jpg "Header")](https://developers.google.com/profile/u/vicksoson)
+<h1 align="center">Hey there, I'm Victor 👋</h1>
+<h3 align="center">Dev Practice Lead @ Enbros | Full-Stack Engineer | Founder of Cakkie | Building Beoforex</h3>
 
+---
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🎯 I'm a full-stack software engineer with 4+ years of experience in mobile, backend, and frontend development. I specialize in building performant and scalable cross-platform solutions using tools like **React**, **React Native**, **NestJS**, and **MongoDB**.
 
-- 😎 My name is Victor Ubong, I'm a software developer. I have worked on several tools and frameworks such as android studio, figma, kotlin, flutter and many more.
-- 🤓I'm currently exploring virtual reality and react native.
-- you can reach out to me on [<img src="https://user-images.githubusercontent.com/69816875/147613139-9a923b92-3c8d-45ee-8c9b-7dacb1170d8f.png" width="30px">](https://www.linkedin.com/in/vicksoson)   or   [<img src="https://user-images.githubusercontent.com/69816875/147613221-a29f570d-bc60-4b55-b7d2-d4e704aacfe1.jpeg" width="30px">](https://www.twitter.com/vicksoson)
+🚀 I lead development practices at **Enbros Technologies**, where I mentor engineers and shape product architecture and code standards.
 
-### 🔧 Technologies and Tools
+🧁 Founder of [Cakkie](https://cakkie.com) – a social marketplace for bakers and cake lovers.
 
- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/FrameWork-Flutter-informational?style=flat&logo=<logohere>&logoColor=white&color=2bbc8a)
+---
 
+### 🛠 Tech & Tools
 
-### 📉 Git Stats
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/Mobile-React_Native-blue?style=flat-square&logo=react)
+![Kotlin](https://img.shields.io/badge/Android-Kotlin-orange?style=flat-square&logo=kotlin)
+![NestJS](https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-43853D?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Expo](https://img.shields.io/badge/Tool-Expo-000020?style=flat-square&logo=expo)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Figma](https://img.shields.io/badge/Design-Figma-purple?style=flat-square&logo=figma)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vcky4&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://www.github.com/Vcky4)
+---
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&theme=tokyonight" />
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&layout=compact&theme=tokyonight)](https://github.com/Vcky4)
+### 📊 GitHub Stats
 
-### 🏆 Awards
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Vcky4&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcky4&layout=compact&theme=tokyonight" />
+</div>
 
-![Awards](https://github-profile-trophy.vercel.app/?username=Vcky4&no-bg=true)
+---
 
-### 📌 Pinned Repos
+### 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vcky4&repo=maipady&theme=tokyonight)](https:www.github.com/Vcky4/maipady)
-<!--
-**Vcky4/Vcky4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧁 **Cakkie** – Social commerce app for bakers and cake lovers  
+- 📦 **Cakkie Dispatch App** – Logistics & delivery solution for Cakkie  
+- 🌐 **React Portfolio Projects** – Frontend experiences with clean UIs and state management
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vicksoson)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/vicksoson)
+[![Portfolio](https://img.shields.io/badge/-GitHub_Portfolio-181717?style=flat-square&logo=github)](https://github.com/Vcky4)
+
+---
+
+> *"Code is more than syntax — it’s how we scale ideas."*
