@@ -5,7 +5,7 @@
 
 ---
 
-🎯 I'm a full-stack software engineer with 4+ years of experience in mobile, backend, and frontend development. I specialize in building performant and scalable cross-platform solutions using tools like **React**, **React Native**, **NestJS**, and **MongoDB**.
+🎯 I'm a full-stack software engineer with 5+ years of experience in mobile, backend, and frontend development. I specialize in building performant and scalable cross-platform solutions using tools like **React**, **React Native**, **NestJS**, and **MongoDB**.
 
 🚀 I lead development practices at **Enbros Technologies**, where I mentor engineers and shape product architecture and code standards.
 
